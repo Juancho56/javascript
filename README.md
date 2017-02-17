@@ -14,3 +14,6 @@ https://jsfiddle.net/JuanP/ygn0c2a3/
 
 Arreglo
 https://jsfiddle.net/JuanP/1mqx2gxa/
+
+Palindromo
+https://jsfiddle.net/JuanP/9kkdsym2/
