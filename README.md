@@ -16,7 +16,7 @@ Arreglo
 https://jsfiddle.net/JuanP/1mqx2gxa/5/
 
 Palindromo
-https://jsfiddle.net/JuanP/9kkdsym2/
+https://jsfiddle.net/JuanP/9kkdsym2/3/
 
 Ordered asc or des
 https://jsfiddle.net/JuanP/hyazu400/
