@@ -19,4 +19,4 @@ Palindromo
 https://jsfiddle.net/JuanP/9kkdsym2/3/
 
 Ordered asc or des
-https://jsfiddle.net/JuanP/hyazu400/
+https://jsfiddle.net/JuanP/hyazu400/7/
