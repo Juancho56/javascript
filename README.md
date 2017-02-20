@@ -18,5 +18,5 @@ https://jsfiddle.net/JuanP/1mqx2gxa/
 Palindromo
 https://jsfiddle.net/JuanP/9kkdsym2/
 
-ordered asc or des
+Ordered asc or des
 https://jsfiddle.net/JuanP/hyazu400/
