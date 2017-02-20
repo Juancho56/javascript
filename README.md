@@ -13,7 +13,7 @@ Impresion Par o Impar
 https://jsfiddle.net/JuanP/ygn0c2a3/
 
 Arreglo
-https://jsfiddle.net/JuanP/1mqx2gxa/
+https://jsfiddle.net/JuanP/1mqx2gxa/5/
 
 Palindromo
 https://jsfiddle.net/JuanP/9kkdsym2/
