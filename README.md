@@ -4,7 +4,7 @@ Contador 1 al 1000
 https://jsfiddle.net/JuanP/ygn0c2a3/
 
 Impresion de numeros Pares
-https://jsfiddle.net/JuanP/ygn0c2a3/1/
+https://jsfiddle.net/JuanP/ygn0c2a3/11/
 
 Impresion Fibonacci
 https://jsfiddle.net/JuanP/ygn0c2a3/10/
