@@ -1,22 +1,25 @@
-# javascript ejercicios
+# Javascript exercises
 
-Contador 1 al 1000
+Counter 1 to 1000
 https://jsfiddle.net/JuanP/ygn0c2a3/
 
-Impresion de numeros Pares
+Pair numbers
 https://jsfiddle.net/JuanP/ygn0c2a3/11/
 
-Impresion Fibonacci
+Fibonacci
 https://jsfiddle.net/JuanP/ygn0c2a3/10/
 
-Impresion Par o Impar
+Even or Odd
 https://jsfiddle.net/JuanP/ygn0c2a3/
 
-Arreglo
+Array
 https://jsfiddle.net/JuanP/1mqx2gxa/5/
 
-Palindromo
+Palindrome
 https://jsfiddle.net/JuanP/9kkdsym2/4/
 
 Ordered asc or des
 https://jsfiddle.net/JuanP/hyazu400/7/
+
+Boxes with double height and width
+https://jsfiddle.net/JuanP/e9c2L4jg/4/ 
