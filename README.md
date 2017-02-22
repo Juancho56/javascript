@@ -19,10 +19,10 @@ Palindrome
 https://jsfiddle.net/JuanP/9kkdsym2/4/
 
 Ordered asc or des
-https://jsfiddle.net/JuanP/hyazu400/7/
+https://jsfiddle.net/JuanP/hyazu400/9/
 
 ancho-alto
-https://jsfiddle.net/JuanP/shd87j8z/12/
+https://jsfiddle.net/JuanP/shd87j8z/13/
 
 ???????????????????
 https://jsfiddle.net/JuanP/e9c2L4jg/4/ 
