@@ -21,7 +21,7 @@ https://jsfiddle.net/JuanP/9kkdsym2/4/
 Ordered asc or des
 https://jsfiddle.net/JuanP/hyazu400/9/
 
-ancho-alto
+width and height
 https://jsfiddle.net/JuanP/shd87j8z/13/
 
 ???????????????????
