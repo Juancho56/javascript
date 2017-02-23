@@ -25,7 +25,7 @@ width and height
 https://jsfiddle.net/JuanP/shd87j8z/15/
 
 width and height in pixels
-https://jsfiddle.net/JuanP/e9c2L4jg/6/
+https://jsfiddle.net/JuanP/e9c2L4jg/7/
 
 ???????????????????
 https://jsfiddle.net/JuanP/e9c2L4jg/4/ 
