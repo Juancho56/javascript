@@ -27,5 +27,8 @@ https://jsfiddle.net/JuanP/shd87j8z/15/
 width and height in pixels
 https://jsfiddle.net/JuanP/e9c2L4jg/7/
 
+create n boxes and write inside every box the width and height
+https://jsfiddle.net/JuanP/asuhdxma/3/ 
+
 ???????????????????
 https://jsfiddle.net/JuanP/e9c2L4jg/4/ 
