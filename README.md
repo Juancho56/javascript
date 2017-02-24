@@ -31,4 +31,4 @@ create n boxes and write inside every box the width and height
 https://jsfiddle.net/JuanP/asuhdxma/4/
 
 Create n boxes, every box should have double height and width
-https://jsfiddle.net/JuanP/e9c2L4jg/8/
+https://jsfiddle.net/JuanP/e9c2L4jg/9/
