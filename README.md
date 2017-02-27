@@ -6,7 +6,7 @@ Print only pair numbers from 0 to 1000.
 https://jsfiddle.net/JuanP/ygn0c2a3/13/
 
 Print first 10 fibonacci number.
-https://jsfiddle.net/JuanP/ygn0c2a3/10/
+https://jsfiddle.net/JuanP/ygn0c2a3/14/
 
 Even or Odd
 https://jsfiddle.net/JuanP/ygn0c2a3/
