@@ -11,8 +11,8 @@ https://jsfiddle.net/JuanP/ygn0c2a3/14/
 With a function, say if a number is pair or not, including 0
 https://jsfiddle.net/JuanP/ygn0c2a3/15/
 
-Array
-https://jsfiddle.net/JuanP/1mqx2gxa/5/
+With a function, create an array with a length provided in the parameters
+https://jsfiddle.net/JuanP/1mqx2gxa/6/
 
 Palindrome
 https://jsfiddle.net/JuanP/9kkdsym2/4/
