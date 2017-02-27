@@ -1,12 +1,11 @@
 # Javascript exercises
-
-Counter 1 to 1000
+Print first 1000 numbers.
 https://jsfiddle.net/JuanP/ygn0c2a3/
 
-Pair numbers
-https://jsfiddle.net/JuanP/ygn0c2a3/11/
+Print only pair numbers from 0 to 1000.
+https://jsfiddle.net/JuanP/ygn0c2a3/13/
 
-Fibonacci
+Print first 10 fibonacci number.
 https://jsfiddle.net/JuanP/ygn0c2a3/10/
 
 Even or Odd
