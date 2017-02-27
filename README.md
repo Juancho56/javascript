@@ -8,8 +8,8 @@ https://jsfiddle.net/JuanP/ygn0c2a3/13/
 Print first 10 fibonacci number.
 https://jsfiddle.net/JuanP/ygn0c2a3/14/
 
-Even or Odd
-https://jsfiddle.net/JuanP/ygn0c2a3/
+// With a function, say if a number is pair or not, including 0
+https://jsfiddle.net/JuanP/ygn0c2a3/15/
 
 Array
 https://jsfiddle.net/JuanP/1mqx2gxa/5/
