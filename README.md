@@ -31,3 +31,6 @@ https://jsfiddle.net/JuanP/asuhdxma/5/
 
 Create n boxes, every box should have double height and width from the last one while the box width < viewport width.
 https://jsfiddle.net/JuanP/e9c2L4jg/11/
+
+Then, put a random color in every box (min 3 unique colors).
+https://jsfiddle.net/JuanP/a621Lycg/1/
