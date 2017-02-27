@@ -11,14 +11,14 @@ https://jsfiddle.net/JuanP/ygn0c2a3/14/
 With a function, say if a number is pair or not, including 0
 https://jsfiddle.net/JuanP/ygn0c2a3/15/
 
-With a function, create an array with a length provided in the parameters
+With a function, create an array with a length provided in the parameters.
 https://jsfiddle.net/JuanP/1mqx2gxa/6/
 
-Palindrome
-https://jsfiddle.net/JuanP/9kkdsym2/4/
+With a function, say if a word is a palindrome.
+https://jsfiddle.net/JuanP/9kkdsym2/5/
 
-Ordered asc or des
-https://jsfiddle.net/JuanP/hyazu400/9/
+Passed an array full with integers, return the array ordered asc or des (defined by parameter).
+https://jsfiddle.net/JuanP/nkrc62pe/1/
 
 width and height
 https://jsfiddle.net/JuanP/shd87j8z/15/
