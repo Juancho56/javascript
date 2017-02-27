@@ -20,14 +20,14 @@ https://jsfiddle.net/JuanP/9kkdsym2/5/
 Passed an array full with integers, return the array ordered asc or des (defined by parameter).
 https://jsfiddle.net/JuanP/nkrc62pe/1/
 
-width and height
-https://jsfiddle.net/JuanP/shd87j8z/15/
+Via javascript, write inside the container the height and width in pixels using a function.
+https://jsfiddle.net/JuanP/shd87j8z/16/
 
-width and height in pixels
-https://jsfiddle.net/JuanP/e9c2L4jg/7/
+Via javascript, write inside every box the width and height in pixels using functions.
+https://jsfiddle.net/JuanP/e9c2L4jg/10/
 
-create n boxes and write inside every box the width and height
-https://jsfiddle.net/JuanP/asuhdxma/4/
+Via javascript, create n boxes and write inside every box the width and height in pixels using functions 
+https://jsfiddle.net/JuanP/asuhdxma/5/
 
-Create n boxes, every box should have double height and width
-https://jsfiddle.net/JuanP/e9c2L4jg/9/
+Create n boxes, every box should have double height and width from the last one while the box width < viewport width.
+https://jsfiddle.net/JuanP/e9c2L4jg/11/
