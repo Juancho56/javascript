@@ -8,7 +8,7 @@ https://jsfiddle.net/JuanP/ygn0c2a3/13/
 Print first 10 fibonacci number.
 https://jsfiddle.net/JuanP/ygn0c2a3/14/
 
-// With a function, say if a number is pair or not, including 0
+With a function, say if a number is pair or not, including 0
 https://jsfiddle.net/JuanP/ygn0c2a3/15/
 
 Array
