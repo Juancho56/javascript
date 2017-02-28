@@ -36,4 +36,4 @@ Then, put a random color in every box (min 3 unique colors).
 https://jsfiddle.net/JuanP/a621Lycg/1/
 
 Via javascript, create a div and when i click it, should show the height and width.
-https://jsfiddle.net/JuanP/2t3t8wLh/1/
+https://jsfiddle.net/JuanP/2t3t8wLh/2/
