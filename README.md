@@ -37,3 +37,12 @@ https://jsfiddle.net/JuanP/a621Lycg/1/
 
 Via javascript, create a div and when i click it, should show the height and width.
 https://jsfiddle.net/JuanP/2t3t8wLh/2/
+
+//Create a button, when i click the button it should create a div, when i click the div, it (the div) should be removed, can't use id attributes.
+https://jsfiddle.net/JuanP/un26sjpf/3/
+
+//Same as before, but now add a input where i can add a color and that is the background color of the created div.
+https://jsfiddle.net/JuanP/yc1k35hx/4/
+
+//Create a button, when i click the button the site background should change to a color in a input with a css animation.
+https://jsfiddle.net/JuanP/yc1k35hx/5/
