@@ -46,3 +46,6 @@ https://jsfiddle.net/JuanP/yc1k35hx/4/
 
 //Create a button, when i click the button the site background should change to a color in a input with a css animation.
 https://jsfiddle.net/JuanP/yc1k35hx/5/
+
+//Create a button, when i click the button the site background should change to a color in a input with a css animation.
+https://jsfiddle.net/JuanP/7Lz6arpL/
