@@ -53,3 +53,11 @@ https://jsfiddle.net/JuanP/7Lz6arpL/
 Now the same, change the body background with a button and an input but now with a slide push animation effect, the new color push the old color out of the viewport
 https://jsfiddle.net/JuanP/7Lz6arpL/7/
 
+Now is time to use some colors, create this using javascript and css 
+https://jsfiddle.net/JuanP/2y0f3jga/
+
+Now same as before but randomly generating the colors, can't use duplicated colors
+https://jsfiddle.net/JuanP/2y0f3jga/4/
+
+
+
