@@ -36,7 +36,7 @@ https://jsfiddle.net/JuanP/e9c2L4jg/11/
 https://jsfiddle.net/JuanP/a621Lycg/2/
 
 13. Via javascript, create a div and when i click it, should show the height and width.
-https://jsfiddle.net/JuanP/2t3t8wLh/3/
+https://jsfiddle.net/JuanP/2t3t8wLh/4/
 
 14. Via javascript create a grid with 100 divs with 100x100px, when i click one it should be highlighted with a border but only that div, should be only one highlighted div at a time.
 https://jsfiddle.net/JuanP/un26sjpf/5/
