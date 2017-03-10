@@ -8,7 +8,7 @@ https://jsfiddle.net/JuanP/ygn0c2a3/13/
 3. Print first 10 fibonacci number.
 https://jsfiddle.net/JuanP/ygn0c2a3/14/
 
-4. With a function, say if a number is pair or not, including 0
+4. With a function, say if a number is pair or not, including 0.
 https://jsfiddle.net/JuanP/ygn0c2a3/15/
 
 5. With a function, create an array with a length provided in the parameters.
@@ -20,7 +20,7 @@ https://jsfiddle.net/JuanP/9kkdsym2/5/
 7. Passed an array full with integers, return the array ordered asc or des (defined by parameter).
 https://jsfiddle.net/JuanP/nkrc62pe/1/
 
-8. Via javascript, write inside the container the height and width in pixels using a function.
+8. Via javascript, write inside the container the height and width in pixels using a functions.
 https://jsfiddle.net/JuanP/shd87j8z/16/
 
 9. Via javascript, write inside every box the width and height in pixels using functions.
@@ -38,10 +38,10 @@ https://jsfiddle.net/JuanP/a621Lycg/2/
 13. Via javascript, create a div and when i click it, should show the height and width.
 https://jsfiddle.net/JuanP/2t3t8wLh/3/
 
-14. Via javascript create a grid with 100 divs with 100x100px, when i click one it should be highlighted with a border but only that div, should be only one highlighted div at a time
-https://jsfiddle.net/JuanP/un26sjpf/4/
+14. Via javascript create a grid with 100 divs with 100x100px, when i click one it should be highlighted with a border but only that div, should be only one highlighted div at a time.
+https://jsfiddle.net/JuanP/un26sjpf/5/
 
-15. Same as before, but now add a input where i can add a color and that is the background color of the created div.
+15. Create a button, when i click the button it should create a div, when i click the div, it (the div) should be removed, can't use id attributes.
 https://jsfiddle.net/JuanP/yc1k35hx/4/
 
 Create a button, when i click the button the site background should change to a color in a input with a css animation.
