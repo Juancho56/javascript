@@ -59,5 +59,5 @@ https://jsfiddle.net/JuanP/2y0f3jga/5/
 20. Now same as before but randomly generating the colors, can't use duplicated colors
 https://jsfiddle.net/JuanP/2y0f3jga/6/
 
-21.Create two profile cards using html templates, card style:
+21. Create two profile cards using html templates, card style:
 https://jsfiddle.net/JuanP/v0df62gk/13/
