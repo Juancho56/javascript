@@ -24,7 +24,7 @@ https://jsfiddle.net/JuanP/nkrc62pe/1/
 https://jsfiddle.net/JuanP/shd87j8z/16/
 
 9. Via javascript, write inside every box the width and height in pixels using functions.
-https://jsfiddle.net/JuanP/e9c2L4jg/10/
+https://jsfiddle.net/JuanP/e9c2L4jg/12/
 
 10. Via javascript, create n boxes and write inside every box the width and height in pixels using functions 
 https://jsfiddle.net/JuanP/asuhdxma/8/
