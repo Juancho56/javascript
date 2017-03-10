@@ -44,20 +44,20 @@ https://jsfiddle.net/JuanP/un26sjpf/5/
 15. Create a button, when i click the button it should create a div, when i click the div, it (the div) should be removed, can't use id attributes.
 https://jsfiddle.net/JuanP/yc1k35hx/4/
 
-Create a button, when i click the button the site background should change to a color in a input with a css animation.
-https://jsfiddle.net/JuanP/yc1k35hx/5/
+16.	Same as before, but now add a input where i can add a color and that is the background color of the created div.
+https://jsfiddle.net/JuanP/yc1k35hx/7/
 
-Create a button, when i click the button the site background should change to a color in a input with a css animation.
+17.	Create a button, when i click the button the site background should change to a color in a input with a css animation
 https://jsfiddle.net/JuanP/7Lz6arpL/
 
-Now the same, change the body background with a button and an input but now with a slide push animation effect, the new color push the old color out of the viewport
+18. Now the same, change the body background with a button and an input but now with a slide push animation effect, the new color push the old color out of the viewport
 https://jsfiddle.net/JuanP/7Lz6arpL/7/
 
-Now is time to use some colors, create this using javascript and css 
-https://jsfiddle.net/JuanP/2y0f3jga/
+19. Now is time to use some colors, create this using javascript and css 
+https://jsfiddle.net/JuanP/2y0f3jga/5/
 
-Now same as before but randomly generating the colors, can't use duplicated colors
-https://jsfiddle.net/JuanP/2y0f3jga/4/
+20. Now same as before but randomly generating the colors, can't use duplicated colors
+https://jsfiddle.net/JuanP/2y0f3jga/6/
 
-Create two profile cards using html templates, card style:
+21.Create two profile cards using html templates, card style:
 https://jsfiddle.net/JuanP/v0df62gk/10/
