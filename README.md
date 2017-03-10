@@ -27,7 +27,7 @@ https://jsfiddle.net/JuanP/shd87j8z/16/
 https://jsfiddle.net/JuanP/e9c2L4jg/10/
 
 10. Via javascript, create n boxes and write inside every box the width and height in pixels using functions 
-https://jsfiddle.net/JuanP/asuhdxma/5/
+https://jsfiddle.net/JuanP/asuhdxma/8/
 
 11. Create n boxes, every box should have double height and width from the last one while the box width < viewport width.
 https://jsfiddle.net/JuanP/e9c2L4jg/11/
