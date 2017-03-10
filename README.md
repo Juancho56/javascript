@@ -39,7 +39,7 @@ https://jsfiddle.net/JuanP/a621Lycg/2/
 https://jsfiddle.net/JuanP/2t3t8wLh/4/
 
 14. Via javascript create a grid with 100 divs with 100x100px, when i click one it should be highlighted with a border but only that div, should be only one highlighted div at a time.
-https://jsfiddle.net/JuanP/un26sjpf/5/
+https://jsfiddle.net/JuanP/un26sjpf/6/
 
 15. Create a button, when i click the button it should create a div, when i click the div, it (the div) should be removed, can't use id attributes.
 https://jsfiddle.net/JuanP/yc1k35hx/4/
