@@ -60,4 +60,4 @@ https://jsfiddle.net/JuanP/2y0f3jga/5/
 https://jsfiddle.net/JuanP/2y0f3jga/6/
 
 21.Create two profile cards using html templates, card style:
-https://jsfiddle.net/JuanP/v0df62gk/10/
+https://jsfiddle.net/JuanP/v0df62gk/13/
