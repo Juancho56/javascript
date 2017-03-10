@@ -48,7 +48,7 @@ https://jsfiddle.net/JuanP/yc1k35hx/4/
 https://jsfiddle.net/JuanP/yc1k35hx/7/
 
 17.	Create a button, when i click the button the site background should change to a color in a input with a css animation
-https://jsfiddle.net/JuanP/7Lz6arpL/
+https://jsfiddle.net/JuanP/7Lz6arpL/8/
 
 18. Now the same, change the body background with a button and an input but now with a slide push animation effect, the new color push the old color out of the viewport
 https://jsfiddle.net/JuanP/7Lz6arpL/7/
