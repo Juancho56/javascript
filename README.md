@@ -61,3 +61,9 @@ https://jsfiddle.net/JuanP/2y0f3jga/6/
 
 21. Create two profile cards using html templates, card style:
 https://jsfiddle.net/JuanP/v0df62gk/13/
+
+22. Now, create a profile card for every user using the data in the users array, data:
+https://jsfiddle.net/JuanP/v0df62gk/26/
+
+23. Now, add some inputs to add profile cards dynamically, and every profile card should have a delete button (x)
+https://jsfiddle.net/JuanP/v0df62gk/30/
