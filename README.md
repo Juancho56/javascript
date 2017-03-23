@@ -66,4 +66,4 @@ https://jsfiddle.net/JuanP/v0df62gk/13/
 https://jsfiddle.net/JuanP/v0df62gk/26/
 
 23. Now, add some inputs to add profile cards dynamically, and every profile card should have a delete button (x)
-https://jsfiddle.net/JuanP/v0df62gk/30/
+https://jsfiddle.net/JuanP/v0df62gk/31/
