@@ -67,3 +67,7 @@ https://jsfiddle.net/JuanP/v0df62gk/26/
 
 23. Now, add some inputs to add profile cards dynamically, and every profile card should have a delete button (x)
 https://jsfiddle.net/JuanP/v0df62gk/31/
+
+24. Using those colors, create a color grid, when i click a box that color should be in a list, if i click the color from the list, should be deleted from the selected colors list
+
+
