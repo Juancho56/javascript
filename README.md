@@ -69,5 +69,5 @@ https://jsfiddle.net/JuanP/v0df62gk/26/
 https://jsfiddle.net/JuanP/v0df62gk/31/
 
 24. Using those colors, create a color grid, when i click a box that color should be in a list, if i click the color from the list, should be deleted from the selected colors list
-https://jsfiddle.net/JuanP/mtno2978/2/
+https://jsfiddle.net/mtno2978/4/
 
